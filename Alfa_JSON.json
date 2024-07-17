@@ -1,0 +1,129 @@
+{
+	"codigo": 10,
+	"nome": "Construtora Alfa S.A",
+	"email": null,
+	"nome_fantasia": "Alfa Incorporacoes",
+	"telefone": ["(51)3333-3334", "(51)3333-3335", "(51)3333-3336"],
+	"obra": [{
+			"codigo_obra": "115",
+			"nome": "Condomínio dos Lagos",
+			"logradouro": "Travessa dos Lagos",
+			"numero": "100",
+			"complemento": "norte",
+			"trabalhadores": [{
+					"cpf": "101.101.101-34",
+					"nome": "Jose Chaves",
+					"salario": 2200.00
+				},
+				{
+					"cpf": "102.102.102-91",
+					"nome": "Pedro Passos",
+					"salario": 3502.10
+				},
+				{
+					"cpf": "103.1023.103-18",
+					"nome": "Pedro Passos",
+					"salario": 3502.10
+				}
+			],
+			"equipamento": [{
+					"codigo_equipamento": 301,
+					"nome": "Betoneira",
+					"valor": 100.00,
+					"categoria": 1,
+					"data_inicio": "18/03/2022",
+					"data_termino": "24/10/2022"
+				},
+				{
+					"codigo_equipamento": 304,
+					"nome": "Guincho",
+					"valor": 250.00,
+					"categoria": 2,
+					"data_inicio": "20/04/2022",
+					"data_termino": "02/08/2022"
+				},
+				{
+					"codigo_equipamento": 306,
+					"nome": "Piso Metalico",
+					"valor": 150.00,
+					"categoria": 4,
+					"data_inicio": "06/07/2021",
+					"data_termino": "18/07/2021"
+				},
+				{
+					"codigo_equipamento": 307,
+					"nome": "Furadeira de Bancada",
+					"valor": 65.00,
+					"categoria": 5,
+					"data_inicio": "04/03/2022",
+					"data_termino": "20/03/2022"
+				},
+				{
+					"codigo_equipamento": 309,
+					"nome": "Plaina",
+					"valor": 25.00,
+					"categoria": 5,
+					"data_inicio": "04/08/2021",
+					"data_termino": "10/08/2021"
+				}
+			]
+		},
+		{
+			"codigo_obra": "116",
+			"nome": "Condominio Araras",
+			"logradouro": "Avenida Rio Grande",
+			"numero": "22",
+			"complemento": "Lado A",
+			"trabalhadores": [{
+				"cpf": "104.104.104-52",
+				"nome": "Carlos Dutra",
+				"salario": 3100.00
+			}, {
+				"cpf": "105.105.105-85",
+				"nome": "Mario Pires",
+				"salario": 4323.29
+			}],
+			"equipamento": [{
+					"codigo_equipamento": 304,
+					"nome": "Guincho",
+					"valor": 250.00,
+					"categoria": 2,
+					"data_inicio": "22/10/2022",
+					"data_termino": "25/10/2022"
+				},
+				{
+					"codigo_equipamento": 305,
+					"nome": "Gerador",
+					"valor": 451.00,
+					"categoria": 3,
+					"data_inicio": "07/03/2022",
+					"data_termino": "10/03/2022"
+				},
+				{
+					"codigo_equipamento": 306,
+					"nome": "Piso Metalico",
+					"valor": 150.00,
+					"categoria": 4,
+					"data_inicio": "12/09/2022",
+					"data_termino": "21/09/2022"
+				},
+				{
+					"codigo_equipamento": 307,
+					"nome": "Furadeira de Bancada",
+					"valor": 65.00,
+					"categoria": 5,
+					"data_inicio": "16/08/2022",
+					"data_termino": "24/08/2022"
+				},
+				{
+					"codigo_equipamento": 308,
+					"nome": "Parafusadeira",
+					"valor": 37.00,
+					"categoria": 5,
+					"data_inicio": "23/10/2022",
+					"data_termino": "25/10/2022"
+				}
+			]
+		}
+	]
+}
